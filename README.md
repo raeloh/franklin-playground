@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+My Adobe Franklin playground, understanding setup, structure, and possibilities!
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--franklin-playground--raeloh.hlx.page/
+- Live: https://main--franklin-playground--raeloh.hlx.live/
 
 ## Installation
 
